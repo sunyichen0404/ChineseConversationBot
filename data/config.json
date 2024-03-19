@@ -1,0 +1,82 @@
+[
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\S_1.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\s.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\S_1"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\S_2.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\s.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\S_2"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\S_3.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\s.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\S_3"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\S_4.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\s.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\S_4"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\S_5.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\s.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\S_5"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\S_6.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\s.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\S_6"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\S_7.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\s.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\S_7"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\S_8.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\s.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\S_8"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\T_0.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\t.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\T_0"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\T_1.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\t.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\T_1"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\T_2.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\t.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\T_2"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\T_3.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\t.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\T_3"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\T_4.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\t.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\T_4"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\T_5.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\t.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\T_5"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\T_6.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\t.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\T_6"
+    },
+    {
+        "driven_audio": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\audio\\T_7.mp3",
+        "source_image": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\img\\t.jpg",
+        "result_dir": "C:\\Users\\sunyi\\PycharmProjects\\chinese_video_bot\\video\\LipSycned\\T_7"
+    }
+]

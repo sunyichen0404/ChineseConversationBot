@@ -1,0 +1,9 @@
+output video: 1920 by 1080
+portraits: 640 by 640
+background: 1920 by 1080
+talking head: 512 by 512
+talking head resized: 360 by 360
+left image crop location (left, bottom, right, top): 180, 630, 540, 990
+right image crop location (left, bottom, right, top): 1380, 630, 1740, 990
+left head background crop location (left, top): 180,
+right head background crop location (left, top): 1380, 630
